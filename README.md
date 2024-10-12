@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! Here's my first attempt to Git! 👋
 
 <!--
 **adam-writes-code/adam-writes-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
